@@ -29,11 +29,27 @@
 
 __Домашки:__
 
-Тут появятся ссылки на контесты с задачами
+- [Домашняя работа №1](https://official.contest.yandex.ru/contest/37490/enter/?retPage=problems)
+- [Домашняя работа №2](https://official.contest.yandex.ru/contest/38029/enter/?retPage=problems)
+- [Домашняя работа №3](https://official.contest.yandex.ru/contest/38029/enter/?retPage=problems)
+- [Домашняя работа №4](https://t.me/c/1154842830/100). Сдавать [сюда](https://forms.gle/va18jMuVSQV9ncWb6)
+
 
 __Контрольные:__
 
-Тут появятся ссылки на контесты с задачами
+- [Самостоятельная работа 1](https://official.contest.yandex.ru/contest/37927/enter/?retPage=problems)
+- [Самостоятельная работа 2](https://official.contest.yandex.ru/contest/38157/enter/?retPage=problems)
+- [Самостоятельная работа 3](https://official.contest.yandex.ru/contest/38495/enter/?retPage=problems)
+
+
+Примеры мини-самостоялок: 
+
+- Мини-ср 1: [вариант 1,](https://docs.google.com/forms/d/e/1FAIpQLSeiSHS5ZbjfOwSZ1gRnwv4dRAu4ldeimXI6QjV208XGh1n1bg/viewform?usp=sf_link)  [вариант 2](https://docs.google.com/forms/d/e/1FAIpQLSdzBKLF4TjXq_jEYWT8ApxzVcvG9mSBcbIXUYN38M-dSyTUxQ/viewform?usp=sf_link)
+- Мини-ср 2: [вариант 1,](https://docs.google.com/forms/d/e/1FAIpQLSea6UXtW2C3LHVvFBGpRFyE6klyz568_526AcZLOyZcjUUqHg/viewform?usp=sf_link) [вариант 2](https://docs.google.com/forms/d/e/1FAIpQLSdXs8kv8nxyvJdV9ESSmZqw3NV955EswiOBt7ZupnWcrXTD5w/viewform?usp=sf_link)
+- Мини-ср 3: [вариант 1,](https://docs.google.com/forms/d/e/1FAIpQLSffQuoMUKKozLRIcdf_TKWr8hTmmG2FG_cbwNcoAbWNFWUFbw/viewform?usp=sf_link) [вариант 2](https://docs.google.com/forms/d/e/1FAIpQLScnnl1DlVfrpmZ8IO2fxIqAQzME1ln18vLB1wOCWLKCm06QOQ/viewform?usp=sf_link)
+- Мини-ср 4: [вариант 1,](https://docs.google.com/forms/d/e/1FAIpQLSf7uXZJ3Ca3VKMIzwCBLyLtCzKUYTIeGjMOxOtuPwNdFgiGTQ/viewform?usp=sf_link) [вариант 2](https://docs.google.com/forms/d/e/1FAIpQLSe_RFqA-ya1RsVnRDg9XgZRwdcsOWfDxvyF5t4sIhm2EKVhdw/viewform?usp=sf_link)
+- Мини-ср 5: [вариант 1,](https://docs.google.com/forms/d/e/1FAIpQLSfySBkHYA_rUXfCS0IXATMAm4rf4vkyv1iIaKXF0Eyr8eNO1w/viewform?usp=sf_link) [вариант 2](https://docs.google.com/forms/d/e/1FAIpQLSd9JIHploK9kNRH-ezNkZbHXdMFrUa8o-YOJaZnQj9s6nAa5A/viewform?usp=sf_link) 
+- Мини-ср 6: [вариант](https://docs.google.com/forms/d/e/1FAIpQLSdF-Mkyc2pmTHaGuS00qNOWtyepKQn4FGB4dQtw60yvULjPcQ/viewform?usp=sf_link)
 
 
 ## Большой план маленьких побед
